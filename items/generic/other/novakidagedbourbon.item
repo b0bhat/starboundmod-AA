@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAnovakidagedbourbon",
+  "price" : 10000,
+  "rarity" : "Rare",
+  "category" : "currency",
+  "inventoryIcon" : "novakidagedbourbon.png",
+  "description" : "A novakid favourite, this drink is no longer produced, making it a rare find.",
+  "shortdescription" : "Novakid Aged Bourbon"
+}

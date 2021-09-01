@@ -1,0 +1,22 @@
+{
+  "itemName" : "AAintrepidaugment",
+  "price" : 15000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "pioneerintrepidaugment.png",
+  "description" : "Grants immunity to all elemental status effects, and grants 20% resistance. For the advanced pioneer.",
+  "shortdescription" : "Intrepid Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "intrepid",
+    "displayName" : "Intrepid",
+    "displayIcon" : "/items/augments/back/pioneerintrepidaugment.png",
+    "effects" : [ "intrepidaugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

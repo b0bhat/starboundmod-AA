@@ -1,0 +1,326 @@
+{
+"AAtreasure" : [
+  [0, {
+    "pool" : [
+      {"weight" : 0.02, "item" : "AAapextruthkit"},
+      {"weight" : 0.02, "item" : "AAartifactburning"},
+      {"weight" : 0.02, "item" : "AAartifactelectric"},
+      {"weight" : 0.02, "item" : "AAartifactfrozen"},
+      {"weight" : 0.02, "item" : "AAartifacttoxic"},
+      {"weight" : 0.02, "item" : "AAaviangoldenegg"},
+      {"weight" : 0.05, "item" : "AAcoincopper"},
+      {"weight" : 0.02, "item" : "AAcoingold"},
+      {"weight" : 0.01, "item" : "AAcoinregal"},
+      {"weight" : 0.03, "item" : "AAcoinsilver"},
+      {"weight" : 0.05, "item" : "AAcupcopper"},
+      {"weight" : 0.02, "item" : "AAcupgold"},
+      {"weight" : 0.01, "item" : "AAcupluxurious"},
+      {"weight" : 0.03, "item" : "AAcupsilver"},
+      {"weight" : 0.02, "item" : "AAfloranixodoomeye"},
+      {"weight" : 0.02, "item" : "AAglitchforgottencrown"},
+      {"weight" : 0.02, "item" : "AAhumandatadrive"},
+      {"weight" : 0.02, "item" : "AAhylotlroyalfan"},
+      {"weight" : 0.02, "item" : "AAnovakidagedbourbon"},
+      {"weight" : 0.02, "item" : "AApenguinplush"},
+      {"weight" : 0.05, "item" : "AAringcopper"},
+      {"weight" : 0.02, "item" : "AAringgold"},
+      {"weight" : 0.01, "item" : "AAringlavish"},
+      {"weight" : 0.03, "item" : "AAringsilver"},
+      {"weight" : 0.05, "item" : "AAsculpturecopper"},
+      {"weight" : 0.02, "item" : "AAsculpturegold"},
+      {"weight" : 0.01, "item" : "AAsculptureopulent"},
+      {"weight" : 0.03, "item" : "AAsculpturesilver"},
+      {"weight" : 0.05, "item" : "AAshellcopper"},
+      {"weight" : 0.02, "item" : "AAshellgold"},
+      {"weight" : 0.01, "item" : "AAshellornate"},
+      {"weight" : 0.03, "item" : "AAshellsilver"},
+      {"weight" : 0.03, "item" : "AAerchiuscore"},
+      {"weight" : 0.03, "item" : "AAerchiusfragment"},
+      {"weight" : 0.03, "item" : "AAerchiusshard"},
+      {"weight" : 0.002, "item" : "AAkawaiiaugment"}
+    ]
+  }]
+],
+
+"AAtreasurebags" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.03, "item" : ["AAancientcache", 1, { "level" : 1 }] },
+        {"weight" : 0.03, "item" : ["AAanimaltrainercrate", 1, { "level" : 1 }]},
+        {"weight" : 0.03, "item" : ["AAaugmentcase", 1, { "level" : 1 }]},
+        {"weight" : 0.03, "item" : ["AAbioprinter]", 1, { "level" : 1 }]},
+        {"weight" : 0.03, "item" : ["AAprotectoratesupply", 1, { "level" : 1 }]},
+        {"weight" : 0.03, "item" : ["AAstolengoods", 1, { "level" : 1 }]},
+        {"weight" : 0.1, "item" : ["AAminerscrate", 1, { "level" : 1 }]},
+        {"weight" : 0.1, "item" : ["AAmagespouch", 1, { "level" : 1 }]},
+        {"weight" : 0.1, "item" : ["AAsoldierspack", 1, { "level" : 1 }]},
+        {"weight" : 0.1, "item" : ["AAtravellersbag", 1, { "level" : 1 }]}
+      ]
+    }],
+    [2, {
+      "pool" : [
+        {"weight" : 0.03, "item" : ["AAancientcache", 1, { "level" : 2 }] },
+        {"weight" : 0.03, "item" : ["AAanimaltrainercrate", 2, { "level" : 2 }]},
+        {"weight" : 0.03, "item" : ["AAaugmentcase", 1, { "level" : 2 }]},
+        {"weight" : 0.03, "item" : ["AAbioprinter]", 1, { "level" : 2 }]},
+        {"weight" : 0.03, "item" : ["AAprotectoratesupply", 1, { "level" : 2 }]},
+        {"weight" : 0.03, "item" : ["AAstolengoods", 1, { "level" : 2 }]},
+        {"weight" : 0.1, "item" : ["AAminerscrate", 1, { "level" : 2 }]},
+        {"weight" : 0.1, "item" : ["AAmagespouch", 1, { "level" : 2 }]},
+        {"weight" : 0.1, "item" : ["AAsoldierspack", 1, { "level" : 2 }]},
+        {"weight" : 0.1, "item" : ["AAtravellersbag", 1, { "level" : 2 }]}
+      ]
+    }],
+    [3, {
+      "pool" : [
+        {"weight" : 0.03, "item" : ["AAancientcache", 1, { "level" : 3 }] },
+        {"weight" : 0.03, "item" : ["AAanimaltrainercrate", 1, { "level" : 3 }]},
+        {"weight" : 0.03, "item" : ["AAaugmentcase", 1, { "level" : 3 }]},
+        {"weight" : 0.03, "item" : ["AAbioprinter]", 1, { "level" : 3 }]},
+        {"weight" : 0.03, "item" : ["AAprotectoratesupply", 1, { "level" : 3 }]},
+        {"weight" : 0.03, "item" : ["AAstolengoods", 1, { "level" : 3 }]},
+        {"weight" : 0.1, "item" : ["AAminerscrate", 1, { "level" : 3 }]},
+        {"weight" : 0.1, "item" : ["AAmagespouch", 1, { "level" : 3 }]},
+        {"weight" : 0.1, "item" : ["AAsoldierspack", 1, { "level" : 3 }]},
+        {"weight" : 0.1, "item" : ["AAtravellersbag", 1, { "level" : 3 }]}
+      ]
+    }],
+    [4, {
+      "pool" : [
+        {"weight" : 0.03, "item" : ["AAancientcache", 1, { "level" : 4 }] },
+        {"weight" : 0.03, "item" : ["AAanimaltrainercrate", 1, { "level" : 4 }]},
+        {"weight" : 0.03, "item" : ["AAaugmentcase", 1, { "level" : 4 }]},
+        {"weight" : 0.03, "item" : ["AAbioprinter]", 1, { "level" : 4 }]},
+        {"weight" : 0.03, "item" : ["AAprotectoratesupply", 1, { "level" : 4 }]},
+        {"weight" : 0.03, "item" : ["AAstolengoods", 1, { "level" : 4 }]},
+        {"weight" : 0.1, "item" : ["AAminerscrate", 1, { "level" : 4 }]},
+        {"weight" : 0.1, "item" : ["AAmagespouch", 1, { "level" : 4 }]},
+        {"weight" : 0.1, "item" : ["AAsoldierspack", 1, { "level" : 4 }]},
+        {"weight" : 0.1, "item" : ["AAtravellersbag", 1, { "level" : 4 }]}
+      ]
+    }],
+    [5, {
+      "pool" : [
+        {"weight" : 0.03, "item" : ["AAancientcache", 1, { "level" : 5 }] },
+        {"weight" : 0.03, "item" : ["AAanimaltrainercrate", 1, { "level" : 5 }]},
+        {"weight" : 0.03, "item" : ["AAaugmentcase", 1, { "level" : 5 }]},
+        {"weight" : 0.03, "item" : ["AAbioprinter]", 1, { "level" : 5 }]},
+        {"weight" : 0.03, "item" : ["AAprotectoratesupply", 1, { "level" : 5 }]},
+        {"weight" : 0.03, "item" : ["AAstolengoods", 1, { "level" : 5 }]},
+        {"weight" : 0.1, "item" : ["AAminerscrate", 1, { "level" : 5 }]},
+        {"weight" : 0.1, "item" : ["AAmagespouch", 1, { "level" : 5 }]},
+        {"weight" : 0.1, "item" : ["AAsoldierspack", 1, { "level" : 5 }]},
+        {"weight" : 0.1, "item" : ["AAtravellersbag", 1, { "level" : 5 }]}
+      ]
+    }],
+    [6, {
+      "pool" : [
+        {"weight" : 0.03, "item" : ["AAancientcache", 1, { "level" : 6 }] },
+        {"weight" : 0.03, "item" : ["AAanimaltrainercrate", 1, { "level" : 6 }]},
+        {"weight" : 0.03, "item" : ["AAaugmentcase", 1, { "level" : 6 }]},
+        {"weight" : 0.03, "item" : ["AAbioprinter]", 1, { "level" : 6 }]},
+        {"weight" : 0.03, "item" : ["AAprotectoratesupply", 1, { "level" : 6 }]},
+        {"weight" : 0.03, "item" : ["AAstolengoods", 1, { "level" : 6 }]},
+        {"weight" : 0.1, "item" : ["AAminerscrate", 1, { "level" : 6 }]},
+        {"weight" : 0.1, "item" : ["AAmagespouch", 1, { "level" : 6 }]},
+        {"weight" : 0.1, "item" : ["AAsoldierspack", 1, { "level" : 6 }]},
+        {"weight" : 0.1, "item" : ["AAtravellersbag", 1, { "level" : 6 }]}
+      ]
+    }],
+    [7, {
+      "pool" : [
+        {"weight" : 0.03, "item" : ["AAancientcache", 1, { "level" : 7 }] },
+        {"weight" : 0.03, "item" : ["AAanimaltrainercrate", 1, { "level" : 7 }]},
+        {"weight" : 0.03, "item" : ["AAaugmentcase", 1, { "level" : 7 }]},
+        {"weight" : 0.03, "item" : ["AAbioprinter]", 1, { "level" : 7 }]},
+        {"weight" : 0.03, "item" : ["AAprotectoratesupply", 1, { "level" : 7 }]},
+        {"weight" : 0.03, "item" : ["AAstolengoods", 1, { "level" : 7 }]},
+        {"weight" : 0.1, "item" : ["AAminerscrate", 1, { "level" : 7 }]},
+        {"weight" : 0.1, "item" : ["AAmagespouch", 1, { "level" : 7 }]},
+        {"weight" : 0.1, "item" : ["AAsoldierspack", 1, { "level" : 7 }]},
+        {"weight" : 0.1, "item" : ["AAtravellersbag", 1, { "level" : 7 }]}
+      ]
+    }],
+    [8, {
+      "pool" : [
+        {"weight" : 0.03, "item" : ["AAancientcache", 1, { "level" : 8 }] },
+        {"weight" : 0.03, "item" : ["AAanimaltrainercrate", 1, { "level" : 8 }]},
+        {"weight" : 0.03, "item" : ["AAaugmentcase", 1, { "level" : 8 }]},
+        {"weight" : 0.03, "item" : ["AAbioprinter]", 1, { "level" : 8 }]},
+        {"weight" : 0.03, "item" : ["AAprotectoratesupply", 1, { "level" : 8 }]},
+        {"weight" : 0.03, "item" : ["AAstolengoods", 1, { "level" : 8 }]},
+        {"weight" : 0.1, "item" : ["AAminerscrate", 1, { "level" : 8 }]},
+        {"weight" : 0.1, "item" : ["AAmagespouch", 1, { "level" : 8 }]},
+        {"weight" : 0.1, "item" : ["AAsoldierspack", 1, { "level" : 8 }]},
+        {"weight" : 0.1, "item" : ["AAtravellersbag", 1, { "level" : 8 }]}
+      ]
+    }],
+    [9, {
+      "pool" : [
+        {"weight" : 0.03, "item" : ["AAancientcache", 1, { "level" : 9 }] },
+        {"weight" : 0.03, "item" : ["AAanimaltrainercrate", 1, { "level" : 9 }]},
+        {"weight" : 0.03, "item" : ["AAaugmentcase", 1, { "level" : 9 }]},
+        {"weight" : 0.03, "item" : ["AAbioprinter]", 1, { "level" : 9 }]},
+        {"weight" : 0.03, "item" : ["AAprotectoratesupply", 1, { "level" : 9 }]},
+        {"weight" : 0.03, "item" : ["AAstolengoods", 1, { "level" : 9 }]},
+        {"weight" : 0.1, "item" : ["AAminerscrate", 1, { "level" : 9 }]},
+        {"weight" : 0.1, "item" : ["AAmagespouch", 1, { "level" : 9 }]},
+        {"weight" : 0.1, "item" : ["AAsoldierspack", 1, { "level" : 9 }]},
+        {"weight" : 0.1, "item" : ["AAtravellersbag", 1, { "level" : 9 }]}
+      ]
+    }],
+    [10, {
+      "pool" : [
+        {"weight" : 0.03, "item" : ["AAancientcache", 1, { "level" : 10 }] },
+        {"weight" : 0.03, "item" : ["AAanimaltrainercrate", 1, { "level" : 10 }]},
+        {"weight" : 0.03, "item" : ["AAaugmentcase", 1, { "level" : 10 }]},
+        {"weight" : 0.03, "item" : ["AAbioprinter]", 1, { "level" : 10 }]},
+        {"weight" : 0.03, "item" : ["AAprotectoratesupply", 1, { "level" : 10 }]},
+        {"weight" : 0.03, "item" : ["AAstolengoods", 1, { "level" : 10 }]},
+        {"weight" : 0.1, "item" : ["AAminerscrate", 1, { "level" : 10 }]},
+        {"weight" : 0.1, "item" : ["AAmagespouch", 1, { "level" : 10 }]},
+        {"weight" : 0.1, "item" : ["AAsoldierspack", 1, { "level" : 10 }]},
+        {"weight" : 0.1, "item" : ["AAtravellersbag", 1, { "level" : 10 }]}
+      ]
+    }]
+  ],
+
+  "AAspelltomes" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.2, "item" : "attractiontome"},
+          {"weight" : 0.2, "item" : "energytome"},
+          {"weight" : 0.2, "item" : "healingtome"},
+          {"weight" : 0.2, "item" : "stagnanttome"},
+          {"weight" : 0.2, "item" : "suspendingtome"}
+          ]
+      }]
+    ],
+
+  "ancientcacheTreasure" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.1, "item" : ["essence", 1000]},
+          {"weight" : 0.2, "item" : ["essence", 800]},
+          {"weight" : 0.3, "item" : ["essence", 600]},
+          {"weight" : 0.4, "item" : ["essence", 400]}
+        ]
+      }]
+    ],
+
+  "animaltrainercrateTreasure" : [
+        [0, {
+          "pool" : [
+            {"weight" : 0.20, "pool" : "petcollars"},
+            {"weight" : 0.40, "item" : "capturepod"},
+            {"weight" : 0.05, "item" : "petball"},
+            {"weight" : 0.05, "item" : "relocator"},
+            {"weight" : 0.10, "item" : "durablefishingrod"},
+            {"weight" : 0.10, "item" : "bugnet"},
+            {"weight" : 0.10, "item" : ["throwingbones", 20]}
+          ]
+        }]
+    ],
+
+  "augmentcaseTreasure" : [
+          [0, {
+            "pool" : [
+              {"weight" : 0.50, "pool" : "augments"},
+              {"weight" : 0.20, "item" : ["techcard", 3]},
+              {"weight" : 0.10, "item" : ["upgrademodule", 3]},
+              {"weight" : 0.20, "item" : "teleportercore"}
+            ]
+          }]
+      ],
+
+  "bioprinterTreasure" : [
+          [0, {
+            "pool" : [
+              {"weight" : 0.30, "pool" : "seed"},
+              {"weight" : 0.25, "pool" : "produce"},
+              {"weight" : 0.15, "item" : ["henegg", 5]},
+              {"weight" : 0.10, "item" : ["mooshiegg", 3]},
+              {"weight" : 0.10, "item" : ["fluffaloegg", 3]},
+              {"weight" : 0.10, "item" : ["robothenegg", 3]}
+            ]
+        }]
+      ],
+
+    "protectoratesupplyTreasure" : [
+          [0, {
+            "pool" : [
+            {"weight" : 0.20, "item" : "protectorate1-codex"},
+            {"weight" : 0.15, "item" : "protectorate2-codex"},
+            {"weight" : 0.05, "item" : "humanhistory1-codex"},
+            {"weight" : 0.05, "item" : "humanhistory2-codex"},
+            {"weight" : 0.05, "item" : "humanhistory3-codex"},
+            {"weight" : 0.05, "item" : "humanhistory4-codex"},
+            {"weight" : 0.05, "item" : "humanhistory5-codex"},
+            {"weight" : 0.05, "item" : "humanhistory7-codex"},
+            {"weight" : 0.05, "item" : "protectorateflowerhead"},
+            {"weight" : 0.10, "item" : "protectoratechest"},
+            {"weight" : 0.10, "item" : "protectoratepants"},
+            {"weight" : 0.10, "item" : "raggedprotectoratecape"}
+          ]
+      }]
+    ],
+
+  "stolengoodsTreasure" : [
+        [0, {
+          "pool" : [
+            {"weight" : 0.50, "pool" : "chestMoney"},
+            {"weight" : 0.30, "pool" : "AAtreasure"},
+            {"weight" : 0.20, "pool" : "valuableTreasure"}
+          ]
+      }]
+    ],
+
+"travellersbagTreasure" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.30, "pool" : "chestMoney"},
+        {"weight" : 0.20, "pool" : "healingItem"},
+        {"weight" : 0.10, "pool" : "weapon"},
+        {"weight" : 0.05, "item" : "fossilbrushstudent"},
+        {"weight" : 0.15, "pool" : "tool"},
+        {"weight" : 0.20, "pool" : "AAtreasure"}
+      ]
+    }]
+  ],
+
+  "soldierspackTreasure" : [
+      [0, {
+        "pool" : [
+          {"weight" : 0.40, "pool" : "weapon"},
+          {"weight" : 0.25, "pool" : "thrownWeapon"},
+          {"weight" : 0.10, "pool" : "uniqueWeapon"},
+          {"weight" : 0.05, "pool" : "uniqueWeapon"},
+          {"weight" : 0.20, "pool" : "AAtreasure"}
+        ]
+      }]
+    ],
+
+    "magespouchTreasure" : [
+        [0, {
+          "pool" : [
+            {"weight" : 0.25, "item" : "rarestaff"},
+            {"weight" : 0.25, "item" : "rarewand"},
+            {"weight" : 0.25, "pool" : "AAspelltomes"},
+            {"weight" : 0.15, "pool" : "healingItem"},
+            {"weight" : 0.15, "pool" : "AAtreasure"}
+          ]
+        }]
+      ],
+
+      "minerscrateTreasure" : [
+          [0, {
+            "pool" : [
+              {"weight" : 0.40, "pool" : "ore"},
+              {"weight" : 0.10, "pool" : "richOre"},
+              {"weight" : 0.15, "pool" : "tool"},
+              {"weight" : 0.15, "pool" : "diggingTool"},
+              {"weight" : 0.20, "pool" : "AAtreasure"}
+            ]
+          }]
+        ]
+}

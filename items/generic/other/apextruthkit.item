@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAapextruthkit",
+  "price" : 10000,
+  "rarity" : "Rare",
+  "category" : "currency",
+  "inventoryIcon" : "apextruthkit.png",
+  "description" : "This kit contains all the essentials for a miniknog truth session in the field.",
+  "shortdescription" : "Apex Truth Kit"
+}

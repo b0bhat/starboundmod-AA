@@ -1,0 +1,22 @@
+{
+  "itemName" : "AAguardianaugment",
+  "price" : 10000,
+  "rarity" : "Rare",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "guardiantitanaugment.png",
+  "description" : "Increases health, healing, and defense. Be the shield.",
+  "shortdescription" : "Guardian Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "guardian",
+    "displayName" : "Guardian",
+    "displayIcon" : "/items/augments/back/guardiantitanaugment.png",
+    "effects" : [ "guardianaugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

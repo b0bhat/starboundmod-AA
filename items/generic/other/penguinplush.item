@@ -1,0 +1,9 @@
+{
+  "itemName" : "AApenguinplush",
+  "price" : 10000,
+  "rarity" : "Rare",
+  "category" : "currency",
+  "inventoryIcon" : "penguinplush.png",
+  "description" : "A life-sized plush, said to be stuffed from the feathers of penguin captains.",
+  "shortdescription" : "Puffy Penguin Plush"
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAcoincopper",
+  "price" : 3000,
+  "rarity" : "Uncommon",
+  "category" : "currency",
+  "inventoryIcon" : "coincopper.png",
+  "description" : "An old coin made from copper, from some forgotten civilization.",
+  "shortdescription" : "Copper Coin"
+}

@@ -1,0 +1,22 @@
+{
+  "itemName" : "AAkawaiiaugment",
+  "price" : 100000,
+  "rarity" : "Essential",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "kawaiiaugment.png",
+  "description" : "Gives +9000 moe. ^red;Now you can BE the anime girl of your dreams.^white;",
+  "shortdescription" : "Kawaii Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "kawaii",
+    "displayName" : "Kawaii",
+    "displayIcon" : "/items/augments/back/kawaiiaugment.png",
+    "effects" : [ "kawaiiaugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

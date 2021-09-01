@@ -1,0 +1,19 @@
+{
+  "itemName" : "AAmagespouch",
+  "price" : 0,
+  "level" : 1,
+  "fixedLevel" : false,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mysteriousReward",
+  "description" : "The pouch of a mage, adept in magic arts. Open it to find wands and magic items!",
+  "shortdescription" : "Mage's Pouch",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "magespouch.png",
+  "scripts" : ["AAbag.lua"],
+
+  "treasure" : {
+    "pool" : "magespouchTreasure"
+  }
+}

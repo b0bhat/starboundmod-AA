@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAringcopper",
+  "price" : 4000,
+  "rarity" : "Uncommon",
+  "category" : "currency",
+  "inventoryIcon" : "ringcopper.png",
+  "description" : "A copper ring with a small jewel. Got anyone in mind?",
+  "shortdescription" : "Copper Ring"
+}

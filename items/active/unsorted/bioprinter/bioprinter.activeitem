@@ -1,0 +1,18 @@
+{
+  "itemName" : "AAbioprinter",
+  "price" : 0,
+  "level" : 1,
+  "maxStack" : 99,
+  "rarity" : "Legendary",
+  "category" : "mysteriousReward",
+  "description" : "A disposable bio printer coded to some unknown DNA. Open it to find out!",
+  "shortdescription" : "Bio-printer",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "bioprinter.png",
+  "scripts" : ["AAbioprinter.lua"],
+
+  "treasure" : {
+    "pool" : "bioprinterTreasure"
+  }
+}

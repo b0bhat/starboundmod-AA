@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAcupluxurious",
+  "price" : 10000,
+  "rarity" : "Essential",
+  "category" : "currency",
+  "inventoryIcon" : "cupluxurious.png",
+  "description" : "A cup adorned with sapphires. Perfect for an after pillaging drink.",
+  "shortdescription" : "Luxurious Cup"
+}

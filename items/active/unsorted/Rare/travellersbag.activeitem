@@ -1,0 +1,19 @@
+{
+  "itemName" : "AAtravellersbag",
+  "price" : 0,
+  "level" : 1,
+  "fixedLevel" : false,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mysteriousReward",
+  "description" : "A traveller's bag. Open it to find what they left behind!",
+  "shortdescription" : "Traveller's Bag",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "travellersbag.png",
+  "scripts" : ["AAbag.lua"],
+
+  "treasure" : {
+    "pool" : "travellersbagTreasure"
+  }
+}

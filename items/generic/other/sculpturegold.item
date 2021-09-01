@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAsculpturegold",
+  "price" : 8000,
+  "rarity" : "Legendary",
+  "category" : "currency",
+  "inventoryIcon" : "sculpturegold.png",
+  "description" : "The image of some famous person, casted from gold.",
+  "shortdescription" : "Gold Sculpture"
+}

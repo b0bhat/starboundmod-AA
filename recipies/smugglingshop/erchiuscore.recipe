@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "AAerchiuscore", "count" : 1 }
+  ],
+  "output" : { "item" : "money", "count" : 2500 },
+  "groups" : [ "smugglingshop" ]
+}

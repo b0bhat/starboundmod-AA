@@ -1,0 +1,10 @@
+{
+  "name" : "intrepidaugment",
+
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "intrepidaugment.lua"
+  ]
+}

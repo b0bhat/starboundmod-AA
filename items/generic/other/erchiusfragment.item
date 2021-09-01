@@ -1,0 +1,10 @@
+{
+  "itemName" : "AAerchiusfragment",
+  "rarity" : "Rare",
+  "category" : "fuel",
+  "inventoryIcon" : "erchiusfragment.png",
+  "description" : "A fragment of some larger crystal, refined to complete purity.",
+  "shortdescription" : "Erchius Fragment",
+  "fuelAmount" : 200,
+  "price" : 2000
+}

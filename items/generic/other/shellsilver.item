@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAshellsilver",
+  "price" : 4000,
+  "rarity" : "Rare",
+  "category" : "currency",
+  "inventoryIcon" : "shellsilver.png",
+  "description" : "The shell of a large marine mollusk, plated in silver.",
+  "shortdescription" : "Silver Shell"
+}

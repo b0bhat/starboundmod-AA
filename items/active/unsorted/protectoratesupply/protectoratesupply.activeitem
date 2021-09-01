@@ -1,0 +1,18 @@
+{
+  "itemName" : "AAprotectoratesupply",
+  "price" : 0,
+  "level" : 1,
+  "maxStack" : 99,
+  "rarity" : "Legendary",
+  "category" : "mysteriousReward",
+  "description" : "A supply crate usually dropped out to offworld units. Open it!",
+  "shortdescription" : "Protectorate Supply",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "protectoratesupply.png",
+  "scripts" : ["AAprotectoratesupply.lua"],
+
+  "treasure" : {
+    "pool" : "protectoratesupplyTreasure"
+  }
+}

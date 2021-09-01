@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAcoingold",
+  "price" : 8000,
+  "rarity" : "Legendary",
+  "category" : "currency",
+  "inventoryIcon" : "coingold.png",
+  "description" : "An old coin made from gold, from some forgotten civilization.",
+  "shortdescription" : "Gold Coin"
+}

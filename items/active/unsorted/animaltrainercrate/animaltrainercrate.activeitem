@@ -1,0 +1,18 @@
+{
+  "itemName" : "AAanimaltrainercrate",
+  "price" : 0,
+  "level" : 1,
+  "maxStack" : 99,
+  "rarity" : "Legendary",
+  "category" : "mysteriousReward",
+  "description" : "A high-tech crate left behind by some animal trainer. Open it and be the very best!",
+  "shortdescription" : "Animal Trainer Crate",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "animaltrainercrate.png",
+  "scripts" : ["AAanimaltrainercrate.lua"],
+
+  "treasure" : {
+    "pool" : "animaltrainercrateTreasure"
+  }
+}

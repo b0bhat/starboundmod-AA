@@ -1,0 +1,22 @@
+{
+  "itemName" : "AAprotectorateaugment",
+  "price" : 10000,
+  "rarity" : "Rare",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "protectorateaugment.png",
+  "description" : "An EPP module issued to Protectors that increase damage and regeneration, and creates a glow.",
+  "shortdescription" : "Protectorate Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "protectorate",
+    "displayName" : "Protectorate",
+    "displayIcon" : "/items/augments/back/protectorateaugment.png",
+    "effects" : [ "protectorateaugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

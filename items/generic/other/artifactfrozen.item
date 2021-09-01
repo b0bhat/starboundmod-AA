@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAartifactfrozen",
+  "price" : 15000,
+  "rarity" : "Legendary",
+  "category" : "currency",
+  "inventoryIcon" : "artifactfrozen.png",
+  "description" : "No matter the temperature, the core of this artifact remains frozen solid.",
+  "shortdescription" : "Frozen Artifact"
+}

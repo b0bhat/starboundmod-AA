@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAringsilver",
+  "price" : 6000,
+  "rarity" : "Rare",
+  "category" : "currency",
+  "inventoryIcon" : "ringsilver.png",
+  "description" : "A silver ring with a small jewel. Got anyone in mind?",
+  "shortdescription" : "Silver Ring"
+}

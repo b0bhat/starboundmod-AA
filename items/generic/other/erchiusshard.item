@@ -1,0 +1,10 @@
+{
+  "itemName" : "AAerchiusshard",
+  "rarity" : "Uncommon",
+  "category" : "fuel",
+  "inventoryIcon" : "erchiusshard.png",
+  "description" : "A shard of pure erchius, broken off from a larger crystal.",
+  "shortdescription" : "Erchius Shard",
+  "fuelAmount" : 50,
+  "price" : 500
+}

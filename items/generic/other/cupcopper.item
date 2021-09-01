@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAcupcopper",
+  "price" : 2000,
+  "rarity" : "Uncommon",
+  "category" : "currency",
+  "inventoryIcon" : "cupcopper.png",
+  "description" : "An old cup made from copper, probably used by nobles.",
+  "shortdescription" : "Copper Cup"
+}

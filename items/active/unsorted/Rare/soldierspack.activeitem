@@ -1,0 +1,19 @@
+{
+  "itemName" : "AAsoldierspack",
+  "price" : 0,
+  "level" : 1,
+  "fixedLevel" : false,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mysteriousReward",
+  "description" : "A soldier's pack, dropped after falling in battle. Open it to receive new weapons!",
+  "shortdescription" : "Soldier's Pack",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "soldierspack.png",
+  "scripts" : ["AAbag.lua"],
+
+  "treasure" : {
+    "pool" : "soldierspackTreasure"
+    }
+  }

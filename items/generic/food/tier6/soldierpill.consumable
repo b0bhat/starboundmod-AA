@@ -1,0 +1,31 @@
+{
+  "itemName" : "AAsoldierpill",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "category" : "preparedFood",
+  "inventoryIcon" : "soldierpill.png",
+  "description" : "A powerful mixture of chemicals produced for USCM soldiers.",
+  "shortdescription" : "Soldier Pill",
+  "effects" : [ [
+    {
+        "effect" : "ragefood",
+        "duration" : 750
+    },
+    {
+        "effect" : "runboostfood",
+        "duration" : 750
+    },
+    {
+        "effect" : "jumpboostfood",
+        "duration" : 750
+    }
+  ] ],
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 0,
+  "blockingEffects" : [
+  ]
+}

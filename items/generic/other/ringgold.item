@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAringgold",
+  "price" : 9000,
+  "rarity" : "Legendary",
+  "category" : "currency",
+  "inventoryIcon" : "ringgold.png",
+  "description" : "A gold ring with a small jewel. Got anyone in mind?",
+  "shortdescription" : "Gold Ring"
+}

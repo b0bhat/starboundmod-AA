@@ -1,0 +1,16 @@
+{
+  "name" : "protectorateaugment",
+  "blockingStat" : "healingStatusImmunity",
+
+  "effectConfig" : {
+    "healTime" : 180,
+    "powerModifier" : 1.10
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "protectorateaugment.lua"
+  ],
+
+  "animationConfig" : "protectorateaugment.animation"
+}

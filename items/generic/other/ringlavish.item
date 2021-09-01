@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAringlavish",
+  "price" : 13000,
+  "rarity" : "Essential",
+  "category" : "currency",
+  "inventoryIcon" : "ringlavish.png",
+  "description" : "A lavish ring made from a dark metal with an mesmerizing crystal on top.",
+  "shortdescription" : "Lavish Ring"
+}

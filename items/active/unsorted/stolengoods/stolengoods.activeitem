@@ -1,0 +1,19 @@
+{
+  "itemName" : "AAstolengoods",
+  "price" : 0,
+  "level" : 1,
+  "maxStack" : 99,
+  "rarity" : "Legendary",
+  "category" : "mysteriousReward",
+  "description" : "A bag filled with valuables, probably stolen. Finders keepers!",
+  "shortdescription" : "Stolen Goods",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "stolengoods.png",
+  "scripts" : ["AAstolengoods.lua"],
+
+  "treasure" : {
+    "pool" : "stolengoodsTreasure",
+    "level" : 1
+  }
+}

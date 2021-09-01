@@ -1,0 +1,50 @@
+{
+  "particleEmitters" : {
+    "sparkles" : {
+      "enabled" : true,
+      "emissionRate" : 500.0,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "animated",
+            "animation" : "/animations/sparkles/sparkle3.animation",
+            "size" : 1,
+            "fade" : 10,
+            "position" : [0.0, 0.0],
+            "offsetRegion" : [0, 0, 0, 0],
+            "destructionTime" : 15,
+            "initialVelocity" : [0, 0],
+            "finalVelocity" : [0, 0],
+            "timeToLive" : 15
+          }
+        }
+      ]
+    }
+  },
+  "lights" : {
+    "glow" : {
+      "active" : true,
+      "position" : [0, 0],
+      "color" : [255, 255, 255],
+      "pointLight" : true
+    },
+    "lantern" : {
+      "active" : true,
+      "position" : [-1.0, 1.0],
+      "color" : [255, 255, 255],
+      "pointLight" : true
+    },
+    "glow2" : {
+      "active" : true,
+      "position" : [0, 0],
+      "color" : [255, 255, 255],
+      "pointLight" : true
+    },
+    "lantern2" : {
+      "active" : true,
+      "position" : [-1.0, 1.0],
+      "color" : [255, 255, 255],
+      "pointLight" : true
+    }
+  }
+}

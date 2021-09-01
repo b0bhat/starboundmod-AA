@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAshellgold",
+  "price" : 7000,
+  "rarity" : "Legendary",
+  "category" : "currency",
+  "inventoryIcon" : "shellgold.png",
+  "description" : "The shell of a large marine mollusk, plated in gold.",
+  "shortdescription" : "Gold Shell"
+}

@@ -1,0 +1,15 @@
+{
+  "name" : "guardianaugment",
+    "blockingStat" : "healingStatusImmunity",
+
+  "effectConfig" : {
+    "protection" : 3,
+    "healthAmount" : 20,
+    "healTime" : 180
+  },
+  "defaultDuration" : 50,
+
+  "scripts" : [
+    "guardianaugment.lua"
+  ]
+}

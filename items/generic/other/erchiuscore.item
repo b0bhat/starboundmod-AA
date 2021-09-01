@@ -1,0 +1,10 @@
+{
+  "itemName" : "AAerchiuscore",
+  "rarity" : "Legendary",
+  "category" : "fuel",
+  "inventoryIcon" : "erchiuscore.png",
+  "description" : "A single core made from pure erchius, processed at some hidden facility.",
+  "shortdescription" : "Erchius Core",
+  "fuelAmount" : 500,
+  "price" : 5000
+}

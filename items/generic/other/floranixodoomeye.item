@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAfloranixodoomeye",
+  "price" : 10000,
+  "rarity" : "Rare",
+  "category" : "currency",
+  "inventoryIcon" : "floranixodoomeye.png",
+  "description" : "A single eye of a fully grown ixodoom, set in its bone. It glitters like a jewel.",
+  "shortdescription" : "Floran Ixodoom Eye"
+}

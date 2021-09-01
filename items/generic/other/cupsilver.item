@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAcupsilver",
+  "price" : 4000,
+  "rarity" : "Rare",
+  "category" : "currency",
+  "inventoryIcon" : "cupsilver.png",
+  "description" : "An old cup made from silver, probably used by nobles.",
+  "shortdescription" : "Silver Cup"
+}

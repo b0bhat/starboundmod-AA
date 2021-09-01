@@ -1,0 +1,10 @@
+{
+  "name" : "pioneeraugment",
+
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "pioneeraugment.lua"
+  ]
+}

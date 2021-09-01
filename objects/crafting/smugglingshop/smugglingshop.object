@@ -1,0 +1,70 @@
+{
+  "objectName" : "AAsmugglingshop",
+  "colonyTags" : ["commerce"],
+  "rarity" : "Legendary",
+  "description" : "Exchange treasure with Sonokawa for a higher price. Probably not illegal.",
+  "shortdescription" : "^red;Sonokawa's Shop^white;",
+  "subtitle" : "Sell treasure on the black market.",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : 3000,
+  "objectType" : "container",
+  "printable" : false,
+  "health" : 2.5,
+
+  "apexDescription" : "I can sell my treasure for a good price here on the black market.",
+  "avianDescription" : "Sells treasure directly to buyers through the black market.",
+  "floranDescription" : "Sssmuggling treasure gives more pixelsss.",
+  "glitchDescription" : "Worried. Is this store legit?.",
+  "humanDescription" : "She can exchange my treasure for more money. Is this legal?",
+  "hylotlDescription" : "Connects to a network of shady dealers to sell treasure for more.",
+  "novakidDescription" : "Heck, I could smuggle treasure myself right under the protectorate's nose!",
+
+  "lightColor" : [120, 40, 90],
+
+  "flickerPeriod" : 2,
+  "flickerMinIntensity" : 0.3,
+  "flickerMaxIntensity" : 0.5,
+  "flickerPeriodVariance" : 2,
+  "flickerIntensityVariance" : 0.5,
+
+  "inventoryIcon" : "smugglingshopicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "smugglingshop.png:<color>.<frame>", "fullbright" : true }, { "image" : "smugglingshoplit.png:<color>.<frame>" } ],
+      "direction" : "left",
+      "flipImages" : false,
+
+      "imagePosition" : [0, 0],
+      "frames" : 10,
+      "animationCycle" : 5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "smugglingshop.png:<color>.<frame>", "fullbright" : true }, { "image" : "smugglingshoplit.png:<color>.<frame>" } ],
+      "direction" : "right",
+
+      "imagePosition" : [0, 0],
+      "frames" : 10,
+      "animationCycle" : 5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/campfire.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+
+  "statusEffects" : [ ],
+
+  "recipeGroup" : "smugglingshop",
+  "openSounds" : [ "/sfx/objects/campfire_use.ogg" ],
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/smugglingshop.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

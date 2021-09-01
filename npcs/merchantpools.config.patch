@@ -1,0 +1,226 @@
+[
+  {
+    "op": "replace",
+    "path": "/augmentmerchant/0",
+    "value": [
+      0,
+      [
+        {
+          "item": {
+            "name": "damageaugment1"
+          }
+        },
+        {
+          "item": {
+            "name": "energyaugment1"
+          }
+        },
+        {
+          "item": {
+            "name": "healingaugment1"
+          }
+        },
+        {
+          "item": {
+            "name": "healthaugment1"
+          }
+        },
+        {
+          "item": {
+            "name": "lightaugment1"
+          }
+        },
+        {
+          "item": {
+            "name": "waraugment1"
+          }
+        },
+        {
+          "item": {
+            "name": "vitalityaugment1"
+          }
+        },
+        {
+          "item": {
+            "name": "beastaugment1"
+          }
+        },
+        {
+          "item": {
+            "name": "poweraugment1"
+          }
+        },
+        {
+          "item": {
+            "name": "fireblockaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "iceblockaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "electricblockaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "poisonblockaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "renegadeaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "damageaugment2"
+          }
+        },
+        {
+          "item": {
+            "name": "energyaugment2"
+          }
+        },
+        {
+          "item": {
+            "name": "healingaugment2"
+          }
+        },
+        {
+          "item": {
+            "name": "healthaugment2"
+          }
+        },
+        {
+          "item": {
+            "name": "lightaugment2"
+          }
+        },
+        {
+          "item": {
+            "name": "waraugment2"
+          }
+        },
+        {
+          "item": {
+            "name": "vitalityaugment2"
+          }
+        },
+        {
+          "item": {
+            "name": "beastaugment2"
+          }
+        },
+        {
+          "item": {
+            "name": "poweraugment2"
+          }
+        },
+        {
+          "item": {
+            "name": "gravityaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "jumpaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "speedaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "swimaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "energizedaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "damageaugment3"
+          }
+        },
+        {
+          "item": {
+            "name": "energyaugment3"
+          }
+        },
+        {
+          "item": {
+            "name": "healingaugment3"
+          }
+        },
+        {
+          "item": {
+            "name": "healthaugment3"
+          }
+        },
+        {
+          "item": {
+            "name": "lightaugment3"
+          }
+        },
+        {
+          "item": {
+            "name": "beastaugment3"
+          }
+        },
+        {
+          "item": {
+            "name": "poweraugment3"
+          }
+        },
+        {
+          "item": {
+            "name": "vitalityaugment3"
+          }
+        },
+        {
+          "item": {
+            "name": "waraugment3"
+          }
+        },
+        {
+          "item": {
+            "name": "thornsaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "juggernautaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "travelleraugment"
+          }
+        },
+        {
+          "item": {
+            "name": "sniperaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "bloomaugment"
+          }
+        },
+        {
+          "item": {
+            "name": "mobilityaugment"
+          }
+        }
+      ]
+    ]
+  }
+]

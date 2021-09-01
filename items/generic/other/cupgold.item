@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAcupgold",
+  "price" : 7000,
+  "rarity" : "Legendary",
+  "category" : "currency",
+  "inventoryIcon" : "cupgold.png",
+  "description" : "An old cup made from gold, probably used by nobles.",
+  "shortdescription" : "Gold Cup"
+}

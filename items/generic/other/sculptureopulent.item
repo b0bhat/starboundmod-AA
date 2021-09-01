@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAsculptureopulent",
+  "price" : 12000,
+  "rarity" : "Essential",
+  "category" : "currency",
+  "inventoryIcon" : "sculptureopulent.png",
+  "description" : "A sculpture made from some dark metal, with the glowing bust of a famous outlaw.",
+  "shortdescription" : "Opulent Sculpture"
+}

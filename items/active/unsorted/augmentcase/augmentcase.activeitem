@@ -1,0 +1,18 @@
+{
+  "itemName" : "AAaugmentcase",
+  "price" : 0,
+  "level" : 1,
+  "maxStack" : 99,
+  "rarity" : "Legendary",
+  "category" : "mysteriousReward",
+  "description" : "A case filled with technology. Open it for an augment or salvage some tech!",
+  "shortdescription" : "Augment Case",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "augmentcase.png",
+  "scripts" : ["AAaugmentcase.lua"],
+
+  "treasure" : {
+    "pool" : "augmentcaseTreasure"
+  }
+}

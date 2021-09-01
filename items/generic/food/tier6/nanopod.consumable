@@ -1,0 +1,27 @@
+{
+  "itemName" : "AAnanopod",
+  "rarity" : "Legendary",
+  "price" : 1500,
+  "category" : "preparedFood",
+  "inventoryIcon" : "nanopod.png",
+  "description" : "Ingestable nanobots that provide long term healing and energy.",
+  "shortdescription" : "Nanopod",
+  "effects" : [ [
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 750
+    },
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 750
+    }
+  ] ],
+  "foodValue" : 15,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 0,
+  "blockingEffects" : [
+  ]
+}

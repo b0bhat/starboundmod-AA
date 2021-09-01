@@ -1,0 +1,77 @@
+[
+  {
+    "op": "add",
+    "path": "/basicChestTreasure/0/1/pool/-",
+    "value": {"weight": 0.05,"pool": "AAtreasure"}
+  },
+  {
+    "op": "add",
+    "path": "/basicChestTreasure/0/1/pool/-",
+    "value": {"weight": 0.15,"pool": "AAtreasurebags"}
+  },
+  {
+    "op": "add",
+    "path": "/smallChestTreasure/0/1/pool/-",
+    "value": {"weight": 0.03,"pool": "AAtreasure"}
+  },
+  {
+    "op": "add",
+    "path": "/smallChestTreasure/0/1/pool/-",
+    "value": {"weight": 0.10,"pool": "AAtreasurebags"}
+  },
+  {
+    "op": "add",
+    "path": "/basicTreasure/0/1/pool/-",
+    "value": {"weight": 0.05,"pool": "AAtreasure"}
+  },
+  {
+    "op": "add",
+    "path": "/basicTreasure/0/1/pool/-",
+    "value": {"weight": 0.15,"pool": "AAtreasurebags"}
+  },
+  {
+    "op": "add",
+    "path": "/valuableTreasure/0/1/pool/-",
+    "value": {"weight": 0.2,"pool": "AAtreasure"}
+  },
+  {
+    "op": "add",
+    "path": "/augments/0/1/pool/-",
+    "value": {"weight": 0.5,"item": "AAvanguardaugment"}
+  },
+  {
+    "op": "add",
+    "path": "/augments/0/1/pool/-",
+    "value": {"weight": 0.2,"item": "AAcrusaderaugment"}
+  },
+  {
+    "op": "add",
+    "path": "/augments/0/1/pool/-",
+    "value": {"weight": 0.5,"item": "AAguardianaugment"}
+  },
+  {
+    "op": "add",
+    "path": "/augments/0/1/pool/-",
+    "value": {"weight": 0.2,"item": "AAtitanaugment"}
+  },
+  {
+    "op": "add",
+    "path": "/augments/0/1/pool/-",
+    "value": {"weight": 0.5,"item": "AApioneeraugment"}
+  },
+  {
+    "op": "add",
+    "path": "/augments/0/1/pool/-",
+    "value": {"weight": 0.2,"item": "AAintrepidaugment"}
+  },
+  {
+    "op": "add",
+    "path": "/augments/0/1/pool/-",
+    "value": {"weight": 0.8,"item": "AAprotectorateaugment"}
+  },
+  {
+    "op": "add",
+    "path": "/maybeWeaponTreasure/0/1/pool/-",
+    "value": {"weight": 0.02,"pool": "AAspelltomes"}
+  }
+]

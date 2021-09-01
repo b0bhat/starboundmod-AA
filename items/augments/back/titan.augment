@@ -1,0 +1,22 @@
+{
+  "itemName" : "AAtitanaugment",
+  "price" : 15000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "guardiantitanaugment.png",
+  "description" : "Greatly increases health, healing, and defense. Be the fortress.",
+  "shortdescription" : "Titan Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "titan",
+    "displayName" : "Titan",
+    "displayIcon" : "/items/augments/back/guardiantitanaugment.png",
+    "effects" : [ "titanaugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

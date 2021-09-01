@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAcoinsilver",
+  "price" : 5000,
+  "rarity" : "Rare",
+  "category" : "currency",
+  "inventoryIcon" : "coinsilver.png",
+  "description" : "An old coin made from silver, from some forgotten civilization.",
+  "shortdescription" : "Silver Coin"
+}

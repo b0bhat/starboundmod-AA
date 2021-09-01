@@ -1,0 +1,22 @@
+{
+  "itemName" : "AAvanguardaugment",
+  "price" : 10000,
+  "rarity" : "Rare",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "vanguardcrusaderaugment.png",
+  "description" : "Increases run speed and damage. Charge at your enemies without fear.",
+  "shortdescription" : "Vanguard Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "vanguard",
+    "displayName" : "Vanguard",
+    "displayIcon" : "/items/augments/back/vanguardcrusaderaugment.png",
+    "effects" : [ "runboostaugment", "rageaugment1" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

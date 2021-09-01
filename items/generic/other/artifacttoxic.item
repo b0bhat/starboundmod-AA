@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAartifacttoxic",
+  "price" : 15000,
+  "rarity" : "Legendary",
+  "category" : "currency",
+  "inventoryIcon" : "artifacttoxic.png",
+  "description" : "If left on soil, plants will sprout from this unknown artifact.",
+  "shortdescription" : "Toxic Artifact"
+}

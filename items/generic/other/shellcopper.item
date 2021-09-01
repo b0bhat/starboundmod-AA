@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAshellcopper",
+  "price" : 2000,
+  "rarity" : "Uncommon",
+  "category" : "currency",
+  "inventoryIcon" : "shellcopper.png",
+  "description" : "The shell of a large marine mollusk, plated in copper.",
+  "shortdescription" : "Copper Shell"
+}

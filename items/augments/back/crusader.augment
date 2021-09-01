@@ -1,0 +1,22 @@
+{
+  "itemName" : "AAcrusaderaugment",
+  "price" : 15000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "vanguardcrusaderaugment.png",
+  "description" : "Increases run speed and jump height, and greatly boosts damage. ",
+  "shortdescription" : "Crusader Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "crusader",
+    "displayName" : "Crusader",
+    "displayIcon" : "/items/augments/back/vanguardcrusaderaugment.png",
+    "effects" : [ "runboostaugment", "jumpboostaugment", "rageaugment2" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

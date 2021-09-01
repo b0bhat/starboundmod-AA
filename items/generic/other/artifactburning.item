@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAartifactburning",
+  "price" : 15000,
+  "rarity" : "Legendary",
+  "category" : "currency",
+  "inventoryIcon" : "artifactburning.png",
+  "description" : "Hot to the touch, this unknown artifact has been burning for millennia.",
+  "shortdescription" : "Burning Artifact"
+}

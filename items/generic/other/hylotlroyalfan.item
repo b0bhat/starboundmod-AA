@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAhylotlroyalfan",
+  "price" : 10000,
+  "rarity" : "Rare",
+  "category" : "currency",
+  "inventoryIcon" : "hylotlroyalfan.png",
+  "description" : "A fan woven from aquamarine silk and embroidered with gold, fit for a princess.",
+  "shortdescription" : "Hylotl Royal Fan"
+}

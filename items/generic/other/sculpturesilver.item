@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAsculpturesilver",
+  "price" : 5000,
+  "rarity" : "Rare",
+  "category" : "currency",
+  "inventoryIcon" : "sculpturesilver.png",
+  "description" : "The image of some famous person, casted from silver.",
+  "shortdescription" : "Silver Sculpture"
+}

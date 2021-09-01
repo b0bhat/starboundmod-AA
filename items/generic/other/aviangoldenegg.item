@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAaviangoldenegg",
+  "price" : 10000,
+  "rarity" : "Rare",
+  "category" : "currency",
+  "inventoryIcon" : "aviangoldenegg.png",
+  "description" : "This giant egg was probably taken from the nest of some huge flying creature.",
+  "shortdescription" : "Avian Golden Egg"
+}

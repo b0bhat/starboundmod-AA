@@ -1,0 +1,15 @@
+{
+  "name" : "titanaugment",
+    "blockingStat" : "healingStatusImmunity",
+
+  "effectConfig" : {
+    "protection" : 5,
+    "healthAmount" : 35,
+    "healTime" : 120
+  },
+  "defaultDuration" : 50,
+
+  "scripts" : [
+    "titanaugment.lua"
+  ]
+}

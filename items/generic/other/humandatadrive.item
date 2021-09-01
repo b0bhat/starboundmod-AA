@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAhumandatadrive",
+  "price" : 10000,
+  "rarity" : "Rare",
+  "category" : "currency",
+  "inventoryIcon" : "humandatadrive.png",
+  "description" : "An old electric data storage device using a disk. ^#990000;'Give me all your secrets.'^white;",
+  "shortdescription" : "Human Data Drive"
+}

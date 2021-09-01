@@ -1,0 +1,19 @@
+{
+  "itemName" : "AAminerscrate",
+  "price" : 0,
+  "level" : 1,
+  "fixedLevel" : false,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mysteriousReward",
+  "description" : "A miner's crate, full of tools. Open it to get ores and mining tools!",
+  "shortdescription" : "Miner's Crate",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "minerscrate.png",
+  "scripts" : ["AAbag.lua"],
+
+  "treasure" : {
+    "pool" : "minerscrateTreasure"
+   }
+  }

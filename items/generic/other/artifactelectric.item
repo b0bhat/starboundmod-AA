@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAartifactelectric",
+  "price" : 15000,
+  "rarity" : "Legendary",
+  "category" : "currency",
+  "inventoryIcon" : "artifactelectric.png",
+  "description" : "An unknown artifact that powers nearby electronics and occasionally sends out sparks.",
+  "shortdescription" : "Electric Artifact"
+}

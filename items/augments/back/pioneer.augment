@@ -1,0 +1,22 @@
+{
+  "itemName" : "AApioneeraugment",
+  "price" : 10000,
+  "rarity" : "Rare",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "pioneerintrepidaugment.png",
+  "description" : "Grants 50% resistance to all types of elemental damage. Made for explorers.",
+  "shortdescription" : "Pioneer Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "pioneer",
+    "displayName" : "Pioneer",
+    "displayIcon" : "/items/augments/back/pioneerintrepidaugment.png",
+    "effects" : [ "pioneeraugment" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

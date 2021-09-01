@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAshellornate",
+  "price" : 11000,
+  "rarity" : "Essential",
+  "category" : "currency",
+  "inventoryIcon" : "shellornate.png",
+  "description" : "A rare shell that an ancient civilization decorated with ornate carvings.",
+  "shortdescription" : "Ornate Shell"
+}

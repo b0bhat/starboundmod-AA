@@ -1,0 +1,15 @@
+{
+  "name" : "kawaiiaugment",
+
+  "effectConfig" : {
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "kawaiiaugment.lua"
+  ],
+
+  "animationConfig" : "kawaiiaugment.animation",
+  "label" : "KAWAII",
+  "icon" : "/interface/statuses/crash.png"
+}

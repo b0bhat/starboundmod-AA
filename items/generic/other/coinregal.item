@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAcoinregal",
+  "price" : 12000,
+  "rarity" : "Essential",
+  "category" : "currency",
+  "inventoryIcon" : "coinregal.png",
+  "description" : "This coin was minted with an inset emerald at the center and used by kings.",
+  "shortdescription" : "Regal Coin"
+}

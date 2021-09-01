@@ -1,0 +1,9 @@
+{
+  "itemName" : "AAsculpturecopper",
+  "price" : 3000,
+  "rarity" : "Uncommon",
+  "category" : "currency",
+  "inventoryIcon" : "sculpturecopper.png",
+  "description" : "The image of some famous person, casted from copper.",
+  "shortdescription" : "Copper Sculpture"
+}
